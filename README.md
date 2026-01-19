@@ -3,7 +3,7 @@
 **NeuroGeometry** is a C# WPF application that transforms raw brainwave data into a real-time "Neuro-RPG" experience. 
 
 Using a NeuroSky MindWave headset, the application gamifies your mental states—rewarding Focus (Attention) with combos and Relaxation (Meditation) with special abilities—while visualizing your neural activity through dynamic geometry.
-
+![Application Screenshot](NuroGeometry/Capture.PNG)
 ---
 
 ## 🎮 Features
